@@ -1,0 +1,20 @@
+{
+    "1":    {
+                "name":"Margarita",
+                "weight":"800",
+                "description":"popular pizza",
+                "price":"2700"
+            },
+    "2":    {
+                "name":"Pepperoni",
+                "weight":"650",
+                "description":"pepperoni pizza",
+                "price":"2500"
+            },
+    "3":    {
+                "name":"Cheeeezzz",
+                "weight":"700",
+                "description":"pizza with cheese",
+                "price":"2300"
+            }
+}
